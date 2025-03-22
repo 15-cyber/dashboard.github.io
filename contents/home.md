@@ -3,18 +3,15 @@
 I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>2518160663@qq.com</code>  
+
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**内江师范学院**,本科，四川第三牛逼的师范大学
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**华中农业大学**, 硕士研究生<br>  
 
-#### Research Interests  
-XX, XX, XX, XX.
+
+#### dream  
+未来希望找一份时间充裕的工作，能够享受岁月的流逝，亲情的温暖，人生的幸福！！！

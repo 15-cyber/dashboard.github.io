@@ -1,3 +1,3 @@
-- 校级一等奖学金, 2022.  
+- 华中农业大学硕士研究生校级一等奖学金, 2024.  
 
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- 本科期间获得国家奖学金, 2022. 

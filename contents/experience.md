@@ -1,20 +1,7 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
-
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
-
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
-
----
-
 ### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+**2023.09-2023.11 | 成都圣大锦程电器有限公司**  
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
-
+负责保护和维护企业的计算机系统、敏感数据，防止网络威胁和攻击；负责安全漏洞评估和管 理，定期对系统和网络进行漏洞评估；负责网络安全监控与管理，管理网络安全设备和系统，保障网络安 全稳定进行。
 #### 主要贡献:  
 - 研发并优化推荐算法，提高用户互动率和内容相关性。  
 - 设计并实现实时数据处理流程，提升模型推理的计算效率。  
